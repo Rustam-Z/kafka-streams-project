@@ -1,4 +1,4 @@
-# Kafka Streams Demo
+# Apache Kafka Streams Demo for Absolute Begineers
 
 This repository shows how a simple kafka streams job can be written
 
